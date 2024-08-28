@@ -1,2 +1,2 @@
 # ARIMA-Model
-In this Australian Stock Market Data is predicted using ARIMA Model. The data is time series which is updating in real time, fetched from YAHOO_FINANCE.  Model is trained on the available data and then we can predict future values of the required upcoming days. 
+In this Australian Stock Market Data is predicted using ARIMA & SVM Model respectively. The data is time series which is updating in real time, fetched from YAHOO_FINANCE. Both Models are trained on the available data and can predict future values of the required upcoming days. In this data is continuously updating to current date everytime when fetched. Model will predict the future values from current date to next required days.
